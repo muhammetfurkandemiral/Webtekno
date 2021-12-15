@@ -9,11 +9,13 @@ Test Automation Case
 
 >-Maximize window
 
+>-Close notification
+
+>-Close cookie
+
 >-Click "Yazılım" at "Kategoriler"
 
 >-Verify click results are listed for "Yazılım" 
-
->-Çerez uyarısını kapat.
 
 >-Filter contents by Video 
 
